@@ -1,0 +1,7 @@
+/build
+/dist
+/pyinstaller.exe
+/tests
+/Text_Swap.spec
+/venv
+/__pycache__
