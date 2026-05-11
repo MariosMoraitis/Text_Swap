@@ -16,7 +16,7 @@ Just point it at a folder and go.
 
 ## 📦 Installation
 
-1. Download the latest release from Releases
+1. Download the latest release from [Releases](https://github.com/MariosMoraitis/Text_Swap/releases/tag/r.1.0.0)
 
 2. Extract the ZIP
 
