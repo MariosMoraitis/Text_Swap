@@ -5,6 +5,8 @@ A lightweight Python tool to find and replace a word or phrase across all files 
 No CLI. No config files. No cloud.
 Just point it at a folder and go.
 
+<img width="525" height="709" alt="image" src="https://github.com/user-attachments/assets/3c858812-15ae-4309-a2f8-803009df50c6" />
+
 ## ✨ Features
 
 📁 Targets all files of a given suffix in a directory
