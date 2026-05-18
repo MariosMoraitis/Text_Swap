@@ -16,7 +16,7 @@ MUTED  = "#64748B"
 class App(ctk.CTk):
     def __init__(self):
         super().__init__()
-        self.title("Batch Replace")
+        self.title("Text Swap")
         self.geometry("520x680")
         self.resizable(False, False)
         self.configure(fg_color=BG)
